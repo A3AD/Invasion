@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "2.5D",
+"dataUrl": "INVASIONWebGL.data.unityweb",
+"asmCodeUrl": "INVASIONWebGL.asm.code.unityweb",
+"asmMemoryUrl": "INVASIONWebGL.asm.memory.unityweb",
+"asmFrameworkUrl": "INVASIONWebGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
